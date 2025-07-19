@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 Color blue = const Color(0xff0061FF);
 Color electricblue = const Color(0xff60EFFF);
 Color black = const Color(0xff000000);
+Color lightblue = const Color(0xffF5FCFF);
 Color white = const Color(0xffffffff);
 
 // Gradient as a variable
