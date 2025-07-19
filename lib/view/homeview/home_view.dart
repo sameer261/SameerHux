@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sameerhux/view/header/header_view.dart';
+import 'package:sameerhux/view/desktop/header/header_view.dart';
 import 'package:sameerhux/view/theme/colors.dart';
 
 class HomeView extends StatelessWidget {
